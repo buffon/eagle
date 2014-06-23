@@ -9,7 +9,7 @@ import java.util.concurrent.BlockingQueue;
  * @author: harry.chen
  * @since: 14-6-23 下午3:06
  */
-public class TraceContrainer {
+public class TraceContainer {
 
     private static BlockingQueue<Trace> traces;
     private static final int mapSize = 10000;

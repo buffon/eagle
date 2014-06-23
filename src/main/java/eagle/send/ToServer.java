@@ -1,13 +1,13 @@
 package eagle.send;
 
-import eagle.core.TraceContrainer;
+import eagle.core.TraceContainer;
 import java.util.List;
 
 /**
  * @author: harry.chen
  * @since: 14-6-23 下午3:27
  */
-public class ToServer extends TraceContrainer {
+public class ToServer extends TraceContainer {
 
     private static final int traceNoPer = 100;
 
